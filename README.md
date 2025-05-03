@@ -70,6 +70,7 @@ This will:
 - Special handling is included for PNG files and other potentially problematic formats
 
 **Troubleshooting**
+
 If you encounter issues:
 
 - Check the log file for detailed information about any errors
@@ -145,6 +146,7 @@ This command will:
 - Files are copied without their original metadata
 
 **Troubleshooting**
+
 If you're seeing more unique files than expected:
 
 - Use the -v flag to see detailed information about why files are considered unique
