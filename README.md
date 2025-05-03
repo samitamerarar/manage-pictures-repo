@@ -1,6 +1,6 @@
 # manage-pictures-repo
 
-## organize_media.py
+## organize_files.py
 
 **Overview**
 
